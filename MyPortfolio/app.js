@@ -43,7 +43,7 @@
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
         <h1>Sanskrutit <span></span></h1>
-        <a href="#projects" type="button" class="cta">Portfolio</a>
+        <a href="Sanskruti_Parate" type="button" class="cta">Resume</a>
       </div>
     </div>
   </section>
@@ -153,7 +153,7 @@
           Duration- 6 Months Internship<br>
           Position- Digital Marketing<br>
        </p>
-        <a href="#" class="cta">Download Resume</a>
+        <a href="Sanskruti_Parate" class="cta">Download Resume</a>
       </div>
     </div>
   </section>
